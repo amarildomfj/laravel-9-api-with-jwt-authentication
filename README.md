@@ -5,10 +5,11 @@ Project created to be used as a base project for APIs with JWT authentication in
 ## 🚀 Getting Started
 
 Clone the repository and change the following environment variables in the .env file
-
+```file
 API_LOGIN=LOGIN_TO_AUTHENTICATE
 API_PASSWORD=SHA256_PASSWORD_TO_AUTHENTICATE
 JWT_KEY=ALEATORY_STRING_TO_JWT
+```
 
 ## ⚙️ Executing requests with authentication
 
